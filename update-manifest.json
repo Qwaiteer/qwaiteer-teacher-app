@@ -1,7 +1,6 @@
 {
-  "version": "alpha-0.1.1",
+  "version": "0.1.1-alpha.10",
   "importance": "important",
-  "apkUrl": "https://github.com/Qwaiteer/qwaiteer-teacher-app/releases/download/alpha-0.1.1/qwaiteer.apk",
   "desktopUrl": "https://github.com/Qwaiteer/qwaiteer-teacher-app/releases/download/alpha-0.1.1/qwaiteer.exe",
   "releaseNotes": [
     "إصدار مهم يتضمن إصلاح اكتشاف التحديثات وقراءة رقم البناء الحقيقي",
