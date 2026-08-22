@@ -1,8 +1,8 @@
 {
   "version": "alpha-0.1.1",
-  "build": 9,
   "importance": "important",
   "apkUrl": "https://github.com/Qwaiteer/qwaiteer-teacher-app/releases/download/alpha-0.1.1/qwaiteer.apk",
+  "desktopUrl": "https://github.com/Qwaiteer/qwaiteer-teacher-app/releases/download/alpha-0.1.1/qwaiteer.exe",
   "releaseNotes": [
     "إصدار مهم يتضمن إصلاح اكتشاف التحديثات وقراءة رقم البناء الحقيقي",
     "تغيير اسم التطبيق والشعار إلى حضّر",
@@ -11,5 +11,35 @@
     "إضافة خيارات التدريس إلى التحضير السريع",
     "تحسين ملخص التحضير ونطاق الأيام والربط مع مدرستي",
     "تحسين إنشاء نشاط الدرس ومعالجة الأخطاء وعرض نتيجة التحضير"
-  ]
+  ],
+  "android": {
+    "version": "alpha-0.1.1",
+    "build": 8,
+    "url": "https://github.com/Qwaiteer/qwaiteer-teacher-app/releases/download/alpha-0.1.1/qwaiteer.apk",
+    "importance": "important",
+    "releaseNotes": [
+      "إصدار مهم يتضمن إصلاح اكتشاف التحديثات وقراءة رقم البناء الحقيقي",
+      "تغيير اسم التطبيق والشعار إلى حضّر",
+      "إضافة مصادر محتوى الدرس للتحضير السريع",
+      "تحسين اختيار محتوى الدرس والقيم البديلة",
+      "إضافة خيارات التدريس إلى التحضير السريع",
+      "تحسين ملخص التحضير ونطاق الأيام والربط مع مدرستي",
+      "تحسين إنشاء نشاط الدرس ومعالجة الأخطاء وعرض نتيجة التحضير"
+    ]
+  },
+  "windows": {
+    "version": "alpha-0.1.1",
+    "build": 9,
+    "url": "https://github.com/Qwaiteer/qwaiteer-teacher-app/releases/download/alpha-0.1.1/qwaiteer.exe",
+    "importance": "important",
+    "releaseNotes": [
+      "إصدار مهم يتضمن إصلاح اكتشاف التحديثات وقراءة رقم البناء الحقيقي",
+      "تغيير اسم التطبيق والشعار إلى حضّر",
+      "إضافة مصادر محتوى الدرس للتحضير السريع",
+      "تحسين اختيار محتوى الدرس والقيم البديلة",
+      "إضافة خيارات التدريس إلى التحضير السريع",
+      "تحسين ملخص التحضير ونطاق الأيام والربط مع مدرستي",
+      "تحسين إنشاء نشاط الدرس ومعالجة الأخطاء وعرض نتيجة التحضير"
+    ]
+  }
 }
