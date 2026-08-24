@@ -1,9 +1,12 @@
 {
   "version": "alpha-0.1.2",
-  "build": 13,
+  "build": 14,
   "importance": "important",
   "desktopUrl": "https://github.com/Qwaiteer/qwaiteer-teacher-app/releases/download/alpha-0.1.2/qwaiteer.exe",
   "releaseNotes": [
+    "تحسين استقرار ربط حساب مدرستي واستخراج البيانات",
+    "تحسين استعادة الجلسة واكتشاف التحديثات",
+    "إصلاحات وتحسينات عامة",
     "إصلاح توقيت اكتمال ربط حساب مدرستي",
     "تحسين استخراج معرّف المدرسة واستقرار استعادة الجلسة",
     "عرض تفاصيل التحديث وقائمة ما الجديد قبل التنزيل",
@@ -16,10 +19,13 @@
   ],
   "android": {
     "version": "alpha-0.1.2",
-    "build": 12,
+    "build": 14,
     "url": "https://github.com/Qwaiteer/qwaiteer-teacher-app/releases/download/alpha-0.1.2/qwaiteer.apk",
     "importance": "important",
     "releaseNotes": [
+      "تحسين استقرار ربط حساب مدرستي واستخراج البيانات",
+      "تحسين استعادة الجلسة واكتشاف التحديثات",
+      "إصلاحات وتحسينات عامة",
       "عرض تفاصيل التحديث وقائمة ما الجديد قبل التنزيل",
       "إضافة تفاصيل الطالب في تقارير الفصل",
       "إضافة دمج اختياري للواجبات المتكررة",
@@ -31,10 +37,13 @@
   },
   "windows": {
     "version": "alpha-0.1.2",
-    "build": 13,
+    "build": 14,
     "url": "https://github.com/Qwaiteer/qwaiteer-teacher-app/releases/download/alpha-0.1.2/qwaiteer.exe",
     "importance": "important",
     "releaseNotes": [
+      "تحسين استقرار ربط حساب مدرستي واستخراج البيانات",
+      "تحسين استعادة الجلسة واكتشاف التحديثات",
+      "إصلاحات وتحسينات عامة",
       "إصلاح توقيت اكتمال ربط حساب مدرستي",
       "تحسين استخراج معرّف المدرسة واستقرار استعادة الجلسة",
       "عرض تفاصيل التحديث وقائمة ما الجديد قبل التنزيل",
