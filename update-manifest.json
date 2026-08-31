@@ -1,13 +1,10 @@
 {
   "version": "alpha-0.1.2",
-  "build": 16,
+  "build": 17,
   "importance": "important",
   "desktopUrl": "https://github.com/Qwaiteer/qwaiteer-teacher-app/releases/download/alpha-0.1.2/qwaiteer.exe",
   "releaseNotes": [
-    "إضافة كشف الحضور والمتابعة",
-    "تحسينات على التقارير",
-    "إصلاح الأخطاء الموجودة في نشر الواجبات والاختبارات والنشاط",
-    "إضافة الاختبارات والنشاط في التقارير"
+    "إصلاح مشكلة عدم ظهور ربط حساب مدرستي بعد نجاح الربط"
   ],
   "android": {
     "version": "alpha-0.1.2",
@@ -23,14 +20,11 @@
   },
   "windows": {
     "version": "alpha-0.1.2",
-    "build": 16,
+    "build": 17,
     "url": "https://github.com/Qwaiteer/qwaiteer-teacher-app/releases/download/alpha-0.1.2/qwaiteer.exe",
     "importance": "important",
     "releaseNotes": [
-      "إضافة كشف الحضور والمتابعة",
-      "تحسينات على التقارير",
-      "إصلاح الأخطاء الموجودة في نشر الواجبات والاختبارات والنشاط",
-      "إضافة الاختبارات والنشاط في التقارير"
+      "إصلاح مشكلة عدم ظهور ربط حساب مدرستي بعد نجاح الربط"
     ]
   }
 }
