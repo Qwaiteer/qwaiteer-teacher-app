@@ -13,9 +13,7 @@
     "url": "https://github.com/Qwaiteer/qwaiteer-teacher-app/releases/download/alpha-0.1.2/qwaiteer.apk",
     "importance": "important",
     "releaseNotes": [
-      "إصلاح إغلاق التطبيق فور التشغيل بعد تحديث أندرويد",
-      "إصلاح فتح تسجيل الدخول إلى مدرستي بعد خطأ شهادة الاتصال SSL",
-      "إخفاء الحضور وسجل المتابعة لحين اكتمال تطويرهما"
+      "إصلاح فتح تسجيل الدخول إلى مدرستي بعد خطأ شهادة الاتصال SSL"
     ]
   },
   "windows": {
