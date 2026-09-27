@@ -9,11 +9,11 @@
   ],
   "android": {
     "version": "alpha-0.1.2",
-    "build": 21,
+    "build": 22,
     "url": "https://github.com/Qwaiteer/qwaiteer-teacher-app/releases/download/alpha-0.1.2/qwaiteer.apk",
     "importance": "important",
     "releaseNotes": [
-      "إصلاح تسجيل الدخول"
+      "إضافة التحضير المتزامن"
     ]
   },
   "windows": {
