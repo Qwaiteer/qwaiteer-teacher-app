@@ -1,13 +1,10 @@
 {
   "version": "alpha-0.1.2",
-  "build": 19,
+  "build": 20,
   "importance": "important",
-  "desktopUrl": "https://github.com/Qwaiteer/qwaiteer-teacher-app/releases/download/desktop-v0.1.2-alpha.19/haddir_0.1.2-alpha.19_x64-setup.exe",
+  "desktopUrl": "https://github.com/Qwaiteer/qwaiteer-teacher-app/releases/download/alpha-0.1.2/qwaiteer.exe",
   "releaseNotes": [
-    "إصلاح ربط الحساب بمنصة مدرستي.",
-    "إصلاح نشر الخطة الأسبوعية.",
-    "إصلاح تحضير الدروس في مدرستي.",
-    "إصلاح بعض الأخطاء الجانبية."
+    "إصلاح إلغاء ربط حساب مدرستي."
   ],
   "android": {
     "version": "alpha-0.1.2",
@@ -20,14 +17,11 @@
   },
   "windows": {
     "version": "alpha-0.1.2",
-    "build": 19,
-    "url": "https://github.com/Qwaiteer/qwaiteer-teacher-app/releases/download/desktop-v0.1.2-alpha.19/haddir_0.1.2-alpha.19_x64-setup.exe",
+    "build": 20,
+    "url": "https://github.com/Qwaiteer/qwaiteer-teacher-app/releases/download/alpha-0.1.2/qwaiteer.exe",
     "importance": "important",
     "releaseNotes": [
-      "إصلاح ربط الحساب بمنصة مدرستي.",
-      "إصلاح نشر الخطة الأسبوعية.",
-      "إصلاح تحضير الدروس في مدرستي.",
-      "إصلاح بعض الأخطاء الجانبية."
+      "إصلاح إلغاء ربط حساب مدرستي."
     ]
   }
 }
