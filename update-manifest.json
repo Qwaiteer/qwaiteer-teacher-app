@@ -1,10 +1,10 @@
 {
   "version": "alpha-0.1.2",
-  "build": 23,
+  "build": 24,
   "importance": "important",
   "desktopUrl": "https://github.com/Qwaiteer/qwaiteer-teacher-app/releases/download/alpha-0.1.2/qwaiteer.exe",
   "releaseNotes": [
-    "إصلاح الدخول عند وجود عدة مدارس في الحساب."
+    "تحسينات عامة على التحضير"
   ],
   "android": {
     "version": "alpha-0.1.2",
@@ -17,11 +17,11 @@
   },
   "windows": {
     "version": "alpha-0.1.2",
-    "build": 23,
+    "build": 24,
     "url": "https://github.com/Qwaiteer/qwaiteer-teacher-app/releases/download/alpha-0.1.2/qwaiteer.exe",
     "importance": "important",
     "releaseNotes": [
-      "إصلاح الدخول عند وجود عدة مدارس في الحساب."
+      "تحسينات عامة على التحضير"
     ]
   }
 }
